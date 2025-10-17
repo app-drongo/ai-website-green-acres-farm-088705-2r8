@@ -1,0 +1,7 @@
+{
+  "triggeredAt": "2025-10-17T16:38:15.105Z",
+  "triggeredBy": "DeploymentService",
+  "reason": "Initial deployment - triggering first build",
+  "branch": "preview",
+  "note": "This file triggers the build service webhook"
+}
